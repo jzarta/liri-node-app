@@ -1,0 +1,19 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Language interpretation and recognition interface",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarta/liri-node-app.git"
+  },
+  "author": "JZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzarta/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jzarta/liri-node-app#readme"
+}
